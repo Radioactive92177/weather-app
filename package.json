@@ -1,0 +1,9 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Weather APP using asynchronous node",
+  "main": "app.js",
+  "repository": "https://github.com/Radioactive92177/weather-app.git",
+  "author": "raj <raju.11811924@lpu.in>",
+  "license": "MIT"
+}
